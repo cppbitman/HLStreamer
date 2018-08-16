@@ -20,4 +20,5 @@ HLS（HTTP Live Streaming）是利用HTTP协议传输音视频内容到客户端
   >
   > 持续地根据M3U8索引向Web服务器请求、接收并播放HTTP协议承载的MPEG2-TS码流切片。
 
-HLS流媒体系统的基本工作流程如图所示。
+HLS流媒体系统的基本工作流程如图2所示。
+> ![Alt 图2](./HLS-workflow.jpg)
